@@ -2,4 +2,4 @@
 
 ![poggers](pepega.png?raw=true "poggers")
 
-https://github-readme-stats.vercel.app/api?username=pyshrekek&repo=github-readme-stats&theme=tokyonight
+![pyshrekek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyshrekek&theme=tokyonight)
