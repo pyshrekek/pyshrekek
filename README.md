@@ -3,6 +3,6 @@ i'm haokun!
 * building and maintaining software and hardware for Digital Fabrication Lab @ Vanderbilt
 * i like to cook and make furniture in my free time!
 
-| | |
-| --- | --- |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyshrekek&layout=donut)](https://github.com/anuraghazra/github-readme-stats) | <img src="julia.png" alt="julia" width="220" /> |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyshrekek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![julia](julia.png)](https://haokunxu.com)
