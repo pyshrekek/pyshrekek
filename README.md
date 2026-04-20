@@ -4,5 +4,3 @@ i'm haokun!
 * i like to cook and make furniture in my free time!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyshrekek&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![julia](julia.png)](https://haokunxu.com)
